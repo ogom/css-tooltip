@@ -9,7 +9,6 @@ Appear in the position of the top and bottom, change the color.
 ## Tooltip Appear
 ![tooltip_appear](https://raw.github.com/ogom/css-tooltip/gh-pages/images/tooltip_appear.png)
 
-
 ## tag
 ```html
   <div class="tooltip bottom">tooltip
