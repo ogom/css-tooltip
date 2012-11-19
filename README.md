@@ -4,6 +4,12 @@ CSS ToolTip
 CSS Only Tooltip. appears blows softly. 
 Appear in the position of the top and bottom, change the color. 
 
+## [All Sample](http://ogom.github.com/css-tooltip/)
+
+### Appear
+![tooltip_appear](https://raw.github.com/ogom/css-tooltip/gh-pages/images/tooltip_appear.png)
+
+
 ## tag
 
 ```html
