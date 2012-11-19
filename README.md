@@ -14,7 +14,9 @@ Appear in the position of the top and bottom, change the color.
 ```html
   <div class="tooltip bottom">tooltip
     <div class="tooltip-inner">bottom
-      <div class="tooltip-angle"><div class="tooltip-angle-inner"></div></div>
+      <div class="tooltip-angle">
+        <div class="tooltip-angle-inner"></div>
+      </div>
     </div>
   </div>
 ```
