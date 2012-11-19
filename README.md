@@ -1,17 +1,16 @@
 CSS ToolTip
 ===========
 
-CSS Only Tooltip. appears blows softly. 
+CSS Only Tooltip. appears blows softly.  
 Appear in the position of the top and bottom, change the color. 
 
-## [All Sample](http://ogom.github.com/css-tooltip/)
+[CSS Tooltip page](http://ogom.github.com/css-tooltip/).
 
-### Appear
+## Tooltip Appear
 ![tooltip_appear](https://raw.github.com/ogom/css-tooltip/gh-pages/images/tooltip_appear.png)
 
 
 ## tag
-
 ```html
   <div class="tooltip bottom">tooltip
     <div class="tooltip-inner">bottom<div class="tooltip-angle"><div class="tooltip-angle-inner"></div></div></div>
@@ -19,7 +18,6 @@ Appear in the position of the top and bottom, change the color.
 ```
 
 ## style
-
 ```css
 .tooltip {
   position: relative;
@@ -95,4 +93,5 @@ Appear in the position of the top and bottom, change the color.
 }
 ```
 
-
+## Licence
+* MIT
