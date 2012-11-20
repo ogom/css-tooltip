@@ -1,8 +1,8 @@
 CSS ToolTip
 ===========
 
-CSS Only Tooltip. appears blows softly.  
-Appear in the position of the top and bottom, change the color. 
+CSS Only Tooltip. Balloon is displayed slowly.  
+Display in the position of the top or bottom, change the color.  
 
 [CSS Tooltip page](http://ogom.github.com/css-tooltip/).
 
